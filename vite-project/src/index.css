@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* src/styles/fonts.css */
+@font-face {
+  font-family: 'NeueBold';
+  src: url('../src/assets/fonts/NeueMachina-Bold_WaMOsLX9Z9.ttf') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeueLight';
+  src: url('../src/assets/fonts/NeueMachina-Light_gwWCZxVuQl.ttf') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'NeueRegular';
+  src: url('../src/assets/fonts/NeueMachina-Regular_DQCmjH1st.ttf') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HelveticaLight';
+  src: url('../src/assets/fonts/HelveticaNowDisplay-Light.ttf') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HelveticaBold';
+  src: url('../src/assets/fonts/HelveticaNowDisplay-Bold.ttf') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HelveticaMedium';
+  src: url('../src/assets/fonts/HelveticaNowDisplay-Medium.ttf') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HelveticaRegular';
+  src: url('../src/assets/fonts/HelveticaNowDisplay-Regular.ttf') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+
